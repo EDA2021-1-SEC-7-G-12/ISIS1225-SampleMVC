@@ -1,3 +1,8 @@
+Datos del grupo:
+Tomas Otero Paris-t.otero@uniandes.edu.co-202021733
+Julian Castro del Valle- j.castrod@uniandes.edu.co-202020847
+
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
